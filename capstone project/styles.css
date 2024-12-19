@@ -94,7 +94,7 @@ footer {
     display: flex;
     background-color: #fff;
 }
-.gap{width: 200vw}
+.gap{width: 100vw}
 .portfolio_main{justify-content: end;}
 /* responsive changes 1 */
 @media (max-width: 768px) {
