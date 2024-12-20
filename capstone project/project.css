@@ -83,9 +83,7 @@ nav a {
 footer {
     text-align: center;
     padding: 20px;
-    font-size: 14px;
-    background-color: #fff;
-}
+    font-size: 14px;}
 
 /* Responsive */
 @media (max-width: 768px) {
