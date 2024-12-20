@@ -23,12 +23,12 @@ nav {
     gap: 20px;
 }
 
-nav a {
+nav a {padding: 10%;
     text-decoration: none;
     color: #4a2040;
     font-weight: bold;
 }
-
+#home:hover,#contact:hover{background-color: #4a2040 ; color: white; border-radius: 10px;}
 .main {
     text-align: center;
     padding: 50px 20px;
