@@ -115,7 +115,7 @@ border-radius: 5px;}
         margin: 5px 0;
     }
 }
-@media (max-width: 300px){
+@media (max-width: 340px){
     .size300px{display: none;
     background-color: black;}
     .size300px1{display: block;}
