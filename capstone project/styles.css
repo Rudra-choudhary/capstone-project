@@ -25,11 +25,12 @@ nav {
     gap: 20px;
 }
 
-nav a {
+nav a {padding: 5px;
     text-decoration: none;
     color: #4a2040;
     font-weight: bold;
 }
+#home:hover,#projects:hover,#contact:hover{background-color: #4a2040 ; color: white; border-radius: 10px;}
 
 .main {
     text-align: center;
@@ -91,6 +92,7 @@ button{color: #4a2040;
 background-color: #f9f5ff;
 border:1px solid rgba(34, 27, 32, 0.16);
 border-radius: 5px;}
+button:hover{background-color:#4a2040 ;color: white;}
 .artist{font-size: 30px;
     display: flex;
     align-items: center;
