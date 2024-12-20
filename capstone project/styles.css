@@ -78,21 +78,30 @@ nav a {
 .about {
     text-align: center;
     padding: 50px 20px;
-    background-color: #fff;
+    
 }
 
-footer {
-    text-align: center;
+.footer {display: flex;
+    justify-content: space-between;
     padding: 20px;
-    font-size: 14px;
-    background-color: #fff;
+    font-size: 24px;
+    font-weight: 400;
 }
+button{color: #4a2040;
+background-color: #f9f5ff;
+border:1px solid rgba(34, 27, 32, 0.16);
+border-radius: 5px;}
+.artist{font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 10%;}
 /* doubts */
 /* .gap{width: 50%;} */
 
 .portfolio {
     display: flex;
-    background-color: #fff;
+    
 }
 .gap{width: 100vw}
 .portfolio_main{justify-content: end;}
