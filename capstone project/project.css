@@ -97,7 +97,7 @@ footer {
     }
 }
 .size300px1{display: none;}
-@media (max-width: 300px) {
+@media (max-width: 340px) {
     .size300px {
         display: none;
         background-color: black;
